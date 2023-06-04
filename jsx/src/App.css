@@ -1,0 +1,25 @@
+/* Table of Content
+==================================================
+PART-1
+The class-based components
+-Be a JavaScript class
+-Extend React.Component
+
+*/
+
+
+/* Google fonts & font family
+==================================================*/
+body {
+  background-color: DodgerBlue;
+  color: white;
+  padding: 40px;
+  font-family: Arial;
+  text-align: center;
+}
+form{
+  border: thin solid red;
+  padding: 2rem;
+  margin: 2rem;
+ 
+}
